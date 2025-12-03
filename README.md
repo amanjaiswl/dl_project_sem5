@@ -85,3 +85,4 @@ This approach yielded significant gains, particularly in the difficult $0-$30 pr
 
 The progression from LightGBM to Multi-Modal Fusion highlights the importance of **semantic understanding** in pricing. While manual features (Approach 1) provide a solid floor, the ability of LLMs (Approach 3) to reason about product descriptions and the ability of MoE architectures to handle diverse price scales provided the necessary edge to minimize error.
 
+5 MIN project video link : https://www.youtube.com/watch?v=8wHx78JKCaE
